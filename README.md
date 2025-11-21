@@ -41,11 +41,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - NALUnit combiner (no longer required with new libraries)
 
 ### Changed
-- Using new RTSP libraries
-- Removed RTMP protocol – ORB Driver now connects to Streaming Engine to obtain RTSP from former RTMP feeds
-- Updated ORBV libraries (2025.28.09)
 - Better audio header handling
-- VersatileBuffer improvements
 
 ## [1.0.13] - 2025-07-10 - Area Zoom and Audio Transcoding
 ### Added
